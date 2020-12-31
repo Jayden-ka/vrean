@@ -1,0 +1,20 @@
+
+
+        button {
+            float: right;
+            margin-right: 25px;
+        }
+
+        .classroom2{
+            padding-top: 30px;
+        }
+
+        .col6 {
+            background-color: lightgray;
+            vertical-align: middle;
+            border-radius: 20px;
+        }
+        
+        .classgo {
+            padding-top: 20px;
+        }

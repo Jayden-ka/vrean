@@ -1,0 +1,12 @@
+input[type="text"] {
+    background-color: #F2F3F4;
+}
+input[type="file"] {
+    display: none;
+}
+.score {
+    border: none;
+}
+.describtion {
+    background-color: #F2F3F4;
+}
