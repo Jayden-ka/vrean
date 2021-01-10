@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.profilefollowlist {
+    text-decoration: none;
+}
+
+.followlisttitle {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.followlistcol-md-2 {
+    padding-bottom: 20px;
+}
+
+.followlistcol-md-3 {
+    align-items: center;
+    background-color: lightgray;
+    border-radius: 20px;
+    padding-bottom: 20px;
+}

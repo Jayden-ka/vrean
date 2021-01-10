@@ -1,0 +1,25 @@
+
+body {
+  align-content: center;
+  column-gap: 30px;
+  }
+  
+  .container {
+      padding-top: 50px;
+      align-content: center;
+  }
+  
+  a {
+      text-decoration: none;
+  }
+  
+  h5 {
+      padding-top: 10px;
+      text-align: center;
+  }
+  
+  .col-md-6 {
+      align-items: center;
+      background-color: lightgray;
+      border-radius: 20px;
+  }

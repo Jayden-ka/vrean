@@ -1,0 +1,33 @@
+body {
+    background-color: #F0F2F5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cover-container {
+    padding: 0px 0px;
+    width: 50vw;
+    height: 50vh;
+    overflow: hidden;
+}
+
+.cover-container .imgprofile {
+    max-width: 100%;
+    max-height: 120%;
+}
+
+.profilebig {
+    position: relative;
+    bottom: 50px;
+    /* background: linear-gradient(180deg, rgba(75,72,72,0.665703781512605) 0%, rgba(255,255,255,0) 98%, rgba(255,255,255,0) 100%); */
+}
+
+.profilebig .imgprofile{
+    width: 100%;
+    height: auto;
+    /* height: 100px; */
+}
+
+.nameprofile {
+    font-size: 30px;
+    text-shadow: 1px 1px 8px #333;
+}
